@@ -4,7 +4,7 @@ This project implements a Single Agent Robust Deep Reinforcement Learning approa
 
 ## Paper
 
-📄 **ArXiv**: https://arxiv.org/submit/6745266/view
+📄 **ArXiv**: https://arxiv.org/pdf/2508.20784
 
 ## Overview
 
